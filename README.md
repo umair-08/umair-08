@@ -20,6 +20,11 @@ Email Me 👉 ✉️ **uk864488@gmail.com** For Collaboration/Project or Anythin
 - 🧠 AI, Data Science & Automation
 - ⚡ Software Engineering & Problem Solving
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=umair-08">
+    <img src="https://komarev.com/ghpvc/?username=umair-08&label=Profile%20views&color=00FFFF&style=flat-square" alt="umair-08's profile views" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -32,13 +37,6 @@ Email Me 👉 ✉️ **uk864488@gmail.com** For Collaboration/Project or Anythin
   <img src="https://trophy.ryglcloud.net/?username=umair-08&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MOHD UMAIR's GitHub Trophies" />
 </p>
 
-<h3 align="center"> Full-Stack Web Development</h3>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=umair-08">
-    <img src="https://komarev.com/ghpvc/?username=umair-08&label=Profile%20views&color=00FFFF&style=flat-square" alt="umair-08's profile views" />
-  </a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
