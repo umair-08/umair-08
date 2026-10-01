@@ -13,9 +13,6 @@ Email Me 👉 ✉️ **uk864488@gmail.com** For Collaboration/Project or Anythin
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 -
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=umair-08&theme=default&no-frame=false&no-bg=true&margin-w=4)
